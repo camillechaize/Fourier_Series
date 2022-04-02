@@ -11,7 +11,7 @@ d = 0.2  # cyclic
 # Precision
 n = 20  # decomposition precision
 p = 500  # graph precision
-number_periods = 3
+number_periods = 2
 
 
 # Square function
